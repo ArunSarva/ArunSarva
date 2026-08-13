@@ -2,7 +2,7 @@
 
 Frontend engineer building React/TypeScript applications, component libraries, and developer tooling. I specialise in React, TypeScript, and rich, editor-heavy UI — from question-paper management systems to custom component libraries.
 
-- 🔭 Currently working on **QBMS** — a question paper & blueprint management platform (metadata navigation, role-based permissions, rich text editing)
+- 🔭 Currently working on metadata navigation, role-based permissions, rich text editing
 - 🛠️ Building component libraries and dev tools: `react-ui-kit`, `qbms-react-components`, and a VS Code extension called **React Guardian**
 - 🐦 Also run **Ram's Aviary** — a bird aviary business, with its own React PWA for transaction tracking
 - 📍 Mysore, India
