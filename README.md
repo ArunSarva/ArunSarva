@@ -32,7 +32,7 @@ A themeable, sizeable React + TypeScript UI component library, CSS-variable base
 Get it on [npm](https://www.npmjs.com/package/react-typescript-ui)
 
 ##### - react_typescript_editor
-A rich text editor built with contenteditable + React + TypeScript — no editor framework (Quill/Slate) underneath.
+A rich text editor built with contenteditable + React + TypeScript — no editor framework underneath.
 
 [![npm version](https://img.shields.io/npm/v/react_typescript_editor?style=for-the-badge)](https://www.npmjs.com/package/react_typescript_editor) [![npm downloads](https://img.shields.io/npm/dt/react_typescript_editor?style=for-the-badge)](https://www.npmjs.com/package/react_typescript_editor)
 
@@ -55,7 +55,6 @@ A React + TypeScript + Tailwind transaction tracker for a bird aviary business, 
 ##### - React-chat
 Real-time chat built with React.
 
-Get [React-chat](https://github.com/ArunSarva/React-chat)
 
 ---
 
